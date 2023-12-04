@@ -471,7 +471,7 @@ body{
         z-index: 2;
         font-size: 1.5rem;
         padding: 0 20px;
-        top: 11vh;
+        top: 10vh;
         letter-spacing: -1px;;
     }
     .text1{
@@ -644,7 +644,7 @@ body{
     .section4cont2{
         position: relative;
         width: 90vw;
-        top: -5vh;
+        top: -7vh;
     }
     .section4heading{
         font-size: 32px;
