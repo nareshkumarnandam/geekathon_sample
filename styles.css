@@ -642,7 +642,9 @@ body{
         width: 100%;
     }
     .section4cont2{
+        position: absolute;
         width: 90vw;
+        top: -10vh;
     }
     .section4heading{
         font-size: 32px;
@@ -670,7 +672,7 @@ body{
         position: relative;
         display: flex;
         flex-wrap: wrap;
-        top: 90vh;
+        top: 60vh;
         width: 100%;
         height: auto;
         justify-content: center;
@@ -689,7 +691,7 @@ body{
         height: auto;
         justify-content: center;
         flex-direction: row;
-        top: 90vh;
+        top: 60vh;
         margin: 50px 0;
     }
     .section5flex{
@@ -739,7 +741,7 @@ body{
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        top: 80vh;
+        top: 60vh;
         gap: 10px;
         justify-self: center;
     }
@@ -792,7 +794,7 @@ body{
         align-items: center;
         margin: 0;
         flex-direction: column;
-        top: 80vh;
+        top: 60vh;
         justify-self: center;
     }
     .section7flex{
