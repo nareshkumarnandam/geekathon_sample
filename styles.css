@@ -469,9 +469,9 @@ body{
     .firstCont{
         position: relative;
         z-index: 2;
-        font-size: 2rem;
+        font-size: 1.5rem;
         padding: 0 20px;
-        top: 20vh;
+        top: 18vh;
         letter-spacing: -1px;;
     }
     .text1{
