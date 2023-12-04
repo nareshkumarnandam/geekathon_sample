@@ -465,7 +465,7 @@ body{
         overflow-x: hidden;
         background-repeat: no-repeat;
         background-size: cover;
-        overflow-y: hidden;
+        
     }
     .firstCont{
         position: relative;
@@ -1052,7 +1052,7 @@ body{
         border-radius: 50px;
         display: flex;
         flex-wrap: wrap;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
     }
     .section4cont1, .section4cont2{
@@ -1065,7 +1065,9 @@ body{
         width: 100%;
     }
     .section4cont2{
+        position: relative;
         width: 90vw;
+        top: -20vh;
     }
     .section4heading{
         font-size: 32px;
@@ -1093,7 +1095,7 @@ body{
         position: relative;
         display: flex;
         flex-wrap: wrap;
-        top: 90vh;
+        top: 40vh;
         width: 100%;
         height: auto;
         justify-content: center;
@@ -1112,7 +1114,7 @@ body{
         height: auto;
         justify-content: center;
         flex-direction: row;
-        top: 90vh;
+        top: 40vh;
         margin: 50px 0;
     }
     .section5flex{
@@ -1162,7 +1164,7 @@ body{
         height: auto;
         align-items: center;
         flex-direction: column;
-        top: 80vh;
+        top: 40vh;
         gap: 10px;
         justify-self: center;
         justify-content: center;
@@ -1218,7 +1220,7 @@ body{
         align-items: center;
         margin: 0;
         flex-direction: column;
-        top: 80vh;
+        top: 40vh;
         justify-self: center;
     }
     .section7flex{
