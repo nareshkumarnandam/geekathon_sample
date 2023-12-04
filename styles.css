@@ -467,11 +467,12 @@ body{
         background-size: cover;
     }
     .firstCont{
+        position: absolute;
         z-index: 2;
         font-size: 1.5rem;
         padding: 0 20px;
-        top: 32vh;
-        letter-spacing: -1px;
+        top: 18vh;
+        letter-spacing: -1px;;
     }
     .text1{
         max-width: 95vw;
