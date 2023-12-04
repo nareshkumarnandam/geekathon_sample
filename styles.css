@@ -471,7 +471,7 @@ body{
         z-index: 2;
         font-size: 1.5rem;
         padding: 0 20px;
-        top: 18vh;
+        top: 11vh;
         letter-spacing: -1px;;
     }
     .text1{
@@ -642,8 +642,9 @@ body{
         width: 100%;
     }
     .section4cont2{
+        position: relative;
         width: 90vw;
-        /* top: -5vh; */
+        top: -5vh;
     }
     .section4heading{
         font-size: 32px;
@@ -670,7 +671,7 @@ body{
         /* position: relative; */
         display: flex;
         flex-wrap: wrap;
-        top: 30vh;
+        top: 20vh;
         width: 100%;
         /* height: auto; */
         justify-content: center;
@@ -689,7 +690,7 @@ body{
         height: auto;
         justify-content: center;
         flex-direction: row;
-        top: 30vh;
+        top: 20vh;
         margin: 50px 0;
     }
     .section5flex{
@@ -739,7 +740,7 @@ body{
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        top: 30vh;
+        top: 20vh;
         gap: 10px;
         justify-self: center;
     }
@@ -792,7 +793,7 @@ body{
         align-items: center;
         margin: 0;
         flex-direction: column;
-        top: 30vh;
+        top: 20vh;
         justify-self: center;
     }
     .section7flex{
